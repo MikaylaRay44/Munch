@@ -13,4 +13,6 @@ Munch is intended to get you going by starting small, with the foods you know an
 
 [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - This project uses Visual Basic .NET so if you aren't familiar read up.
 
+[Dashboard](https://trello.com/b/zQUBul7J) - Each piece of development, like features and bug fixes, are documented on this Trello board.
+
 All other documentation can be found on the [wiki](https://github.com/MikaylaRay44/Munch/wiki/Munch).
