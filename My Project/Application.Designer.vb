@@ -32,7 +32,7 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Munch.Form1
+            Me.MainForm = Global.Munch.Main
         End Sub
     End Class
 End Namespace
